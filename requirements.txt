@@ -1,0 +1,8 @@
+torch
+torchaudio
+transformers
+scikit-learn
+numpy
+pandas
+kagglehub
+tqdm
