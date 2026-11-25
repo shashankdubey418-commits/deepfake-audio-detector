@@ -194,7 +194,7 @@ During one of the reported evaluation runs, the model achieved:
 
 **Shashank Dubey**
 
-B.Tech – Computer Science and Engineering
+B.Tech  Computer Science and Engineering
 
 ## Disclaimer
 
